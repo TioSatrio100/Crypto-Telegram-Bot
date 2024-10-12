@@ -4,7 +4,7 @@ import telebot
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-API_KEY = '7352883696:AAH9K2TrCYkFNAzqGB2qQb-G-e6R4pxZeI4'
+API_KEY = 'Secret Telegram APU Key'
 bot = telebot.TeleBot(API_KEY)
 
 # Function to take a cryptocurrency ID and return the price in USD
